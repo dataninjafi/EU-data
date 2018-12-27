@@ -1,0 +1,3 @@
+pdf:T
+tekstiä: producer on "^Amyuni PDF Converter|^pdf code|^Microsoft|^itext|"
+kuva: Xerox WorkCentre 5745|ricoh|
